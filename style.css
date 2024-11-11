@@ -1,0 +1,126 @@
+button{
+    border-radius: 25px;
+    width: 150px;
+    height: 40px;
+    background-color: white;
+    margin-left: 90px;  
+    margin-top: 20px;
+}
+.top{
+    display: flex;
+}
+.welcome{
+  padding: 10px;
+  margin-top: 10px;
+  padding-left: 280px;
+  
+}
+h1{
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   text-align: center;
+   margin-top: 0px;
+   padding-top: 30px;
+   padding-bottom: 30px;
+   
+}
+.first{
+    margin-top: 30px;
+    padding: 50px; 
+}
+.parah{
+ text-align: center;
+    
+}
+h5{
+    text-align: center;
+    margin-top: 40px;
+}
+.lotus{
+ text-align: center;
+
+
+}
+h4{
+    text-align: center;
+    
+}
+.meen{
+    border: 3px solid black hidden;
+    background-color: yellow;
+}
+.second{
+    display: flex;
+    gap: 30px;
+    padding: 60px;
+    padding-top: 0px;
+    
+}
+.boxing{
+    border: 1px solid black;
+    height: 440px;
+    width: 300px;
+    background-color: white;
+    
+}
+.mathing{
+    border: 1px solid black;
+    height: 440px;
+    width: 300px;
+    background-color: white;
+}
+.matching{
+    border: 1px solid black;
+    height: 440px;
+    width: 300px;
+    background-color: white;
+}
+.medi{
+    border: 1px solid black;
+    height: 440px;
+    width: 300px;
+    background-color: white;
+}
+.booking{
+    border: 1px solid black;
+    height: 440px;
+    width: 300px;
+    background-color: white;
+}
+.third{
+    display: flex;
+    gap: 30px;
+    padding: 60px;
+    padding-top: 0px;
+    
+}
+.four{
+    display: flex;
+    gap: 30px;
+    padding: 60px;
+    padding-top: 0px;
+    
+}
+
+.model{
+    text-align: center;
+    padding-right:50px;
+}
+.inside{
+    
+    background: url(/student.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+
+   
+}
+
+
+
+
+
+
+
+
+
+
